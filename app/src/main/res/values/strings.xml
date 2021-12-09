@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExamApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="buy">BUY</string>
+    <string name="developers">Developers</string>
+    <string name="catalog">Catalog</string>
+    <string name="about">About</string>
+    <string name="just_see_our_website">just see our website</string>
+    <string name="toy">TOY</string>
+</resources>
